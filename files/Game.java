@@ -158,7 +158,4 @@ public class Game implements Runnable {
 	 * specified in Game and runs it IMPORTANT: Do NOT delete! You MUST include
 	 * this in the final submission of your game.
 	 */
-	public static void main(String[] args) {
-		SwingUtilities.invokeLater(new Game());
-	}
 }
